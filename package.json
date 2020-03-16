@@ -19,7 +19,7 @@
     "airbrake-js": "^1.6.8",
     "body-parser": "^1.19.0",
     "config": "^3.2.2",
-    "cookie-parser": "~1.4.4",
+    "cookie-parser": "~1.4.5",
     "cross-fetch": "^3.0.4",
     "debug": "~4.1.1",
     "express": "^4.17.1",
